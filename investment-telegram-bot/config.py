@@ -1,1 +1,1 @@
-TOKEN_API = "5810276304:AAGAw0j53MYgF_Z-eJRIyk0ZXsnjsekmTvQ"
+TOKEN_API = "BOT_TOKEN" # скрыт в целях безопасности 
