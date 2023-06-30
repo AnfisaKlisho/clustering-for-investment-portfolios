@@ -1,2 +1,2 @@
 # clustering-for-investment-portfolios
-The final graduation project for HSE
+Analysis of building a stable investment portfolio with clustering algorithms
